@@ -170,7 +170,7 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>crevise-snapshots</name>
-        <url>https://http://localhost:8081/artifactory/webapp/#/artifacts/browse/tree/General/libs-snapshot-local</url>
+        <url>http://localhost:8081/artifactory/webapp/#/artifacts/browse/tree/General/libs-snapshot-local</url>
     </snapshotRepository>
     </distributionManagement>
 
